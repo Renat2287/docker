@@ -1,1 +1,1 @@
-"C:\Users\vipfa\IdeaProjects\dzDocker1.png"
+![dzDocker1.png](..%2FdzDocker1.png)
